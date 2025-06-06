@@ -1,4 +1,2 @@
 snowflake-snowpark-python
 streamlit
-pip install --upgrade pip
-
